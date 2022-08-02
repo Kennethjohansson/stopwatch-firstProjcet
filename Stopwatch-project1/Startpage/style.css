@@ -1,0 +1,50 @@
+#mainDiv {
+    text-align: center;
+    border: solid 1px black;
+    padding-bottom: 32px;
+    margin:auto;
+    width: 50%;
+    border-radius: 4px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#time {
+    margin: 32px;
+}
+
+button {
+    border-radius: 4px;
+    border: none;
+}
+
+#start {
+    padding: 16px 48px;
+    text-align: center;
+    background-color: black;
+    color:white;
+    margin: 8px;
+}
+
+#lapRecord {
+    padding: 16px 48px;
+    text-align: center;
+    background-color: grey;
+    color:lightgray;
+    margin: 8px;
+}
+
+#reset {
+    padding: 16px 48px;
+    text-align: center;
+    background-color: grey;
+    color:lightgrey;
+    margin: 8px;
+}
+
+#laps {
+    margin-top: 40px;
+    height: 400px;
+}
